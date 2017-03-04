@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+#batphoto {
+  border: 1px solid silver;
+  margin-bottom: 10px;
+}
+
+.parentdiv {
+  width: 300px;
+  padding: 10px;
+  border: 1px solid silver;
+  box-shadow: 10px 10px #e0e0e0;
+}
+
+.childdiv {
+  border: 1px solid silver;
+  padding: 8px;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.caption {
+  font-style: italic;
+}
